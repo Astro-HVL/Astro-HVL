@@ -23,6 +23,7 @@ Coming soon!
 
 <p align="center">
 
-![Outer Space GIF by Pudgy Penguins](https://github.com/user-attachments/assets/a25c735c-1a27-4e29-a6df-1f8d0ba820fd)
+![Outer Space GIF by Ross Norton](https://github.com/user-attachments/assets/b8145ae9-65ff-4176-8369-3a8053b04776)
+
 </p>
 
