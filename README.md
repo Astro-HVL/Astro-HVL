@@ -1,4 +1,5 @@
-![1758745224298](https://github.com/user-attachments/assets/7cc61ca4-0195-4a4d-b43d-edbb713d4fc3)
+![1758745224298](https://github.com/user-attachments/assets/47eb95ea-9e23-46ea-b3ba-565113b04bcc)
+
 ### 🛠️ This README is under construction 🛠️
 <br/>
 <br/>
