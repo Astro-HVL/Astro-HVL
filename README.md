@@ -21,7 +21,7 @@ Coming soon!
 <br/>
 
 
-
-![Outer Space GIF by Pudgy Penguins](https://github.com/user-attachments/assets/54748453-2b5a-4e95-a994-110c9a344cbf)
-
+<p align="center">
+  ![Outer Space GIF by Pudgy Penguins](https://github.com/user-attachments/assets/54748453-2b5a-4e95-a994-110c9a344cbf)
+</p>
 
