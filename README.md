@@ -27,3 +27,6 @@ Coming soon!
 
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8145ae9-65ff-4176-8369-3a8053b04776" width="300" alt="Demo GIF">
+</p>
